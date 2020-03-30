@@ -1,0 +1,11 @@
+{
+  "name": "dynamodb-loopback-connector",
+  "version": "1.0.0",
+  "description": "loopback connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devjit",
+  "license": "ISC"
+}
