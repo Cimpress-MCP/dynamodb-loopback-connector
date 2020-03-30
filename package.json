@@ -1,11 +1,27 @@
 {
   "name": "dynamodb-loopback-connector",
-  "version": "1.0.0",
+  "version": "1.0.59",
   "description": "loopback connector",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "devjit",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cimpress-MCP/dynamodb-loopback-connector.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "loopback",
+    "connector"
+  ],
+  "bugs": {
+    "url": "https://github.com/Cimpress-MCP/dynamodb-loopback-connector/issues"
+  },
+  "homepage": "https://github.com/Cimpress-MCP/dynamodb-loopback-connector#readme"
 }
