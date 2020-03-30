@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-loopback-connector",
-  "version": "1.0.59",
+  "version": "1.0.60",
   "description": "loopback connector",
   "main": "index.js",
   "scripts": {
